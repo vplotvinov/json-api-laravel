@@ -78,7 +78,7 @@ envoy run deploy --env=stage
 ```
 
 ```
-ssh root@178.128.75.84
+ssh root@11.11.11.11
 /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:~/.composer/vendor/bin
 sudo apt-get install php-gd php-xml php7.2-mbstring
 apt install zip unzip php7.0-zip
